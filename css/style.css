@@ -22,7 +22,7 @@ html, body{
 .keys{
     display: flex;
     flex: 1;
-    min-height: 100vh;
+    min-height: 50vh;
     align-items: center;
     justify-content: center;
 }
